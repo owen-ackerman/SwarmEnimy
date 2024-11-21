@@ -1,0 +1,2 @@
+A synthesizer that treats its several (100's or 1000's of) oscillators like planetary bodies that interact with eachother. The planets/oscillators live in an x,y plane where the x axis is the oscillators pitch
+and y axis is a mappable parameter. When the user plays a note, it causes a black hole at that frequency and at several harmonics above the fundamental pulling the oscillators to those black holes. 
